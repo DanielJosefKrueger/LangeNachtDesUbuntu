@@ -1,4 +1,4 @@
-# LangeNachtDesUbuntu
+# Die lange Nacht des Ubuntu
 Hallo dudes,
 hier stellen wir verschiedene Anleitungen rund um das Thema ubuntu zur Verfügung.
 
