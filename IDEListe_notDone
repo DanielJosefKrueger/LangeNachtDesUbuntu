@@ -1,5 +1,19 @@
 Hier ist eine Liste von nützlichen IDEs, die euch während eurem Studium das programmieren erleichtern können:
 
-1. IntelliJ; Vorzüge:
-  -...
-  -...
+1. DevC
+  - Schlichte IDE für C/C++ Programmierung
+  - gut für Anfänger geeignet
+  - einfache handhabung
+2. NetBeans
+  - Schlichte IDE für Java
+  - für Anfänger geeignet
+  - einfache handhabung
+  
+3. IntelliJ
+  - Alternative zu NetBeans
+  - Interpreter individuell einstellbar für Anfänger evtl. leicht überfordernd)
+  
+4. Eclipse
+
+5. CLion
+
