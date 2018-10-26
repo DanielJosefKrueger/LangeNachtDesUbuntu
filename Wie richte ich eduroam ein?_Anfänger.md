@@ -4,7 +4,7 @@ Außerdem findet ihr dort auch eine Anleitung wie ihr eduroam manuell einrichten
 
 https://ticket.haw-landshut.de/otrs/public.pl?Action=PublicFAQExplorer;CategoryID=16
 
-Alternativ kann man auch das Script herunterladen und ausführen.
-'''sh
+Alternativ kann man auch das Script herunterladen und ausführen.  
+```sh
 wget -O- https://cat.eduroam.de/user/API.php?action=downloadInstaller&lang=de&profile=254&id=linux | bash
-'''
+```
