@@ -3,15 +3,13 @@
 1. PaketManager
 2. JavaInstallieren
 3. IDEListe
+4. VirtualleMaschinen
 
 ## Fortgeschritten:
 1. Docker
 
 ### To-Do:
-1. IDE Sammlung
-2. Wie richte ich eduroam ein?
-3. Wichtige Befehle in Linux - Wie installiere ich Java?
-4. Einführung in VirtualMachines
-5. Installation von Linux
-6. Interessante Programme für Linux
-7. Weiterführung Terminalbefehle - BashScripting
+1. Wichtige Befehle in Linux
+2. Installation von Linux
+3. Interessante Programme für Linux
+4. Weiterführung Terminalbefehle - BashScripting
