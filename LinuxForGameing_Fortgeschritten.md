@@ -1,4 +1,4 @@
-# Linux for Gameing xD
+# Linux for Gameing 
 Jetzt wo wir endlich eingesehen haben das Linux das einzig wahre Betriebsystem
 ist wollen wir nicht mehr zurück, aber manchmal vermissen wir doch diese eine
 Spiel das wir so gerne gespielt haben und das gibt es leider nur für Windows.
