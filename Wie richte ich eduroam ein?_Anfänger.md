@@ -1,4 +1,6 @@
-Im verlinkten Tutorial des HelpDesks wir erklärt wie ihr eduroam einrichten könnt
+#Wie richte ich eduroam ein?
+
+Im verlinkten Tutorial des HelpDesks wird erklärt wie ihr eduroam einrichten könnt
 (falls ihr das noch nicht gemacht habt oder es noch nicht funktioniert).
 Außerdem findet ihr dort auch eine Anleitung wie ihr eduroam manuell einrichten könnt.
 
