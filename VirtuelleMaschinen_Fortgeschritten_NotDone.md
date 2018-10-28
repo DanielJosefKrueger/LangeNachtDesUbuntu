@@ -21,3 +21,6 @@ Hier eine Auswahl von Programmen dafür:
 - [PlayOnLinux](https://www.playonlinux.com/de/)
 - [Crossover (nicht kostenlos)](https://www.codeweavers.com/products/)
 - Steam Proton aktivierbar in den Einstellungen
+
+Da wir ja jetzt wissen was eine Virtuelle Maschine ist, wollen wir nun unsere **erste eigene VM** mit Hilfe der VirtualBox erstellen.
+Das Tutorial dazu findet ihr [hier](https://www.tutonaut.de/anleitung-virtuelle-maschine-einrichtennutzen-fuer-einsteiger-ohne-vorwissen/).
