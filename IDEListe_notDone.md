@@ -37,5 +37,4 @@ Wird von Schiedermeier und von den meisten Professoren benutzt.
 Also können die euch da am meisten helfen.
 
 snap: https://snapcraft.io/eclipse
-
 offical: https://www.eclipse.org
