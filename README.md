@@ -1,7 +1,7 @@
 # Die lange Nacht des Ubuntu
-Hallo dudes,
+Hallo Leute,
 
-hier stellen wir verschiedene Anleitungen rund um das Thema ubuntu zur Verfügung.
+hier stellen wir verschiedene Anleitungen rund um das Thema **ubuntu** zur Verfügung.
 
 Für die Erstis unter euch fangen wir ganz grundlegend mit der Einrichtung von eduroam und IDE's an.
 
