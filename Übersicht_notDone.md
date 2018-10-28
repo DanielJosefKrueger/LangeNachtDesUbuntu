@@ -5,9 +5,11 @@
 3. JavaInstallieren
 4. IDEListe
 5. VirtualleMaschinen
+6. VideoBlockingNotifications
 
 ## Fortgeschritten:
 1. Docker
+2. LinuxForGameingXD
 
 ### To-Do:
 1. Wichtige Befehle in Linux

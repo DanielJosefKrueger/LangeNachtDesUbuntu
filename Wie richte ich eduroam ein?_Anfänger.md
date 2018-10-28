@@ -6,5 +6,5 @@ https://ticket.haw-landshut.de/otrs/public.pl?Action=PublicFAQExplorer;CategoryI
 
 Alternativ kann man auch das Script herunterladen und ausführen.  
 ```sh
-wget -O- https://cat.eduroam.de/user/API.php?action=downloadInstaller&lang=de&profile=254&id=linux | bash
+wget -qO- https://cat.eduroam.de/user/API.php?action=downloadInstaller&lang=de&profile=254&id=linux | bash
 ```
