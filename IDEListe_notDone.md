@@ -23,7 +23,7 @@ snap: https://snapcraft.io/vscode
 offical: https://code.visualstudio.com
 
 ## Netbeans
-Die Netbeans IDE kann nicht relativ leicht durch das gesamte Studium
+Die Netbeans IDE kann dich relativ leicht durch das gesamte Studium
 bringen. Von C über Java SE bis hin zu Java EE. Sie ist einfach zu
 bedienen und das Code austauschen funktioniert auch wie man es sich
 vorstellt.
