@@ -7,14 +7,14 @@ Man kann sich auch leicht mehrere Versionen installieren und
 das System bleibt
 Müllfrei.
 
-# Installation
-Ich würde hier die Installation wie hier beschrieben empfehlen.
-https://docs.docker.com/install/linux/docker-ce/ubuntu/#set-up-the-repository
+## Installation
+Ich würde hier die Installation wie [hier](https://docs.docker.com/install/linux/docker-ce/ubuntu/#set-up-the-repository) beschrieben empfehlen.
+
 Für eure Entwicklungsinstanz müsst ihr euch nicht unbedingt
 eine Version
 festlegen.
 
-# Benutzung
+## Benutzung
 Wenn ich jetzt zum Beispiel eine MongoDB Instanz für das
 Datenbank Praktikum
 brauche kann ich das einfach auf https://hub.docker.com gehen
