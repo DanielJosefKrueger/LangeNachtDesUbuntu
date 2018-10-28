@@ -4,12 +4,12 @@
 2. PaketManager
 3. JavaInstallieren
 4. IDEListe
-5. VirtualleMaschinen
+5. VirtuelleMaschinen
 6. VideoBlockingNotifications
 
 ## Fortgeschritten:
 1. Docker
-2. LinuxForGameingXD
+2. LinuxForGameing
 
 ### To-Do:
 1. Wichtige Befehle in Linux
