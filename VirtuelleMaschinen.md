@@ -20,3 +20,4 @@ Zeit mitbringt ist Wine eine gute Wahl.
 Hier eine Auswahl von Programmen dafür:
 - [PlayOnLinux](https://www.playonlinux.com/de/)
 - [Crossover (nicht kostenlos)](https://www.codeweavers.com/products/)
+- Steam Proton aktivierbar in den Einstellungen
