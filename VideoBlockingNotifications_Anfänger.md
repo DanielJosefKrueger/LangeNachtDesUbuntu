@@ -1,4 +1,4 @@
-# Video stoppet bei Notification
+# Video stoppt bei Notification
 Jeder der sich zuhause ins Bett gelegt hat eine Karaffe kalte Milch bereitgesellt
 hat und IT Crowd sehen wollte und jedes mal wieder auf play drücken musste als
 er wieder eine nervige Nachricht einer schönen Frau/Mann bekommen hat wird sich
