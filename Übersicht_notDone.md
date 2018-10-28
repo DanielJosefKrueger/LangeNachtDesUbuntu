@@ -7,13 +7,13 @@
 5. VideoBlockingNotifications (Nice to have)
 
 ## Fortgeschritten:
-1. Docker
-2. LinuxForGameing
-3. Virtuelle Maschinen
-4. Handbuch
+1. Virtuelle Maschinen
+2. Linux Handbuch
+3. Docker
+4. LinuxForGameing
+
 
 ### To-Do:
 1. Wichtige Befehle in Linux
-2. Installation von Linux (fehlende erweiterung von VM)
 3. Interessante Programme für Linux
 4. Weiterführung Terminalbefehle - BashScripting
