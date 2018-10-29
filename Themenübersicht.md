@@ -1,6 +1,7 @@
 # Übersicht
 ## Anfänger:
-1. Wie installiere ich eduroam?
+0. Wie installiere ich eduroam?
+1. Terminal Befehle
 2. Java Installieren
 3. Paket Manager
 4. IDE Liste
