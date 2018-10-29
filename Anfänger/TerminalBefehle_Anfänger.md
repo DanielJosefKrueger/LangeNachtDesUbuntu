@@ -9,15 +9,18 @@ Hierfür gibt es den befehl changeDirectory:
     ```
     cd hier/der/Pfad/zu/eurem/Zielordner
     ```
-durch diesen kleinen Befehl landet ihr sofort an eurem  Zielort und könnt nun zBsp. Dateinen öffnen.
+    durch diesen kleinen Befehl landet ihr sofort an eurem  Zielort und könnt nun zBsp. Dateinen öffnen.
 
 2. Falls ihr eine Liste von allen Dateien und Ordner haben mochtet, tippt einfach
     ```
     ls
     ```
-schon seht ihr eine vollständige Liste.
+    schon seht ihr eine vollständige Liste.
 
-3. Euer bester Freund ist 'sudo'
-in vielen Fällen braucht ihr mehr Rechte als ein 'normaler' Nutzer. Dazu setzt ihr einfach 'sudo' vor euren
-Befehl, ihr müsst euer Passwort eingeben und schon könnt ihr zBsp geschützte Dateinen editieren. Aber vorsicht!
-Mit vielen Rechten kann man auch mal schnell etwas kaputt machen.
+3. Euer bester Freund ist 
+    ```
+    sudo
+    ```
+    in vielen Fällen braucht ihr mehr Rechte als ein 'normaler' Nutzer. Dazu setzt ihr einfach 'sudo' vor euren
+    Befehl, ihr müsst euer Passwort eingeben und schon könnt ihr zBsp geschützte Dateinen editieren. **Aber vorsicht!
+    Mit vielen Rechten kann man auch mal schnell etwas kaputt machen.**
