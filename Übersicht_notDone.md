@@ -13,7 +13,3 @@
 3. Docker
 4. LinuxForGameing
 
-
-### To-Do:
-1. Wichtige Befehle in Linux
-4. Weiterführung Terminalbefehle - BashScripting
