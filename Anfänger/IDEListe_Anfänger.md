@@ -11,7 +11,7 @@ Hier ist eine Liste von nützlichen IDEs, die euch während eurem Studium das pr
 ## DevC
 Schlichte IDE für C/C++ Programmierung
 gut für Anfänger geeignet
-einfache handhabung
+einfache Handhabung
 
 ## IntelliJ
 Alternative zu NetBeans
