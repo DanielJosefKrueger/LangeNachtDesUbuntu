@@ -1,4 +1,9 @@
 # Übersicht
+Die Themen hier sind natürlich nur ein kleiner Ausschnitt der Möglichkeiten, die Linux euch bietet. Wenn ihr
+mal Probleme habt oder nach gewissen Programmen sucht, ist diese Website eine sehr gute erste Anlaufstelle:
+https://wiki.ubuntuusers.de/Startseite/
+Unter anderem findet ihr dort auch die aktuellen *.iso Dateinen zum Installiernen von ubuntu.
+
 ## Anfänger:
 0. Wie installiere ich eduroam?
 1. Terminal Befehle
