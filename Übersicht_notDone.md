@@ -4,7 +4,8 @@
 2. Java Installieren
 3. Paket Manager
 4. IDE Liste
-5. VideoBlockingNotifications (Nice to have)
+5. FTPServer aufsetzen
+6. VideoBlockingNotifications (Nice to have)
 
 ## Fortgeschritten:
 1. Virtuelle Maschinen
