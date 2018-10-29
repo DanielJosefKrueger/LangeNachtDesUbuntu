@@ -3,7 +3,8 @@
 Einen FTP Server aufzusetzen gestaltet sich einfacher, als man sich erwarten würde.
 Hier habt ihr eine simple Schritt für Schritt Anleitung:
 
-Rechner 1: Server
+**Rechner 1: Server**
+
 1. Im Terminal muss ersteinmal die IPAdresse herausgefunden werden.
     Dazu tippt ihr einfach den Befehl 'ifconfig' ein und sucht bei eth0 die IP heraus.
 
@@ -39,8 +40,9 @@ Rechner 1: Server
 
 9.1 in deinName test.txt erstellen
 
-Rechner 2: Client
+**Rechner 2: Client**
 //todo wie starte ich client richtig
+
 8. ftp ip von server
 
 9.2 Kommandos: ls
