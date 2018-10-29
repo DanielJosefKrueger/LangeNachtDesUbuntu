@@ -1,11 +1,22 @@
 # IDEs
 Hier ist eine Liste von nützlichen IDEs, die euch während eurem Studium das programmieren erleichtern können:
 
-1. IntelliJ
-2. Atom (Fortgeschritten)
-3. VSCode (Fortgeschritten)
-4. Netbeans
-5. Eclipse
+1. DevC
+2. IntelliJ
+3. Atom (Fortgeschritten)
+4. VSCode (Fortgeschritten)
+5. Netbeans
+6. Eclipse
+
+## DevC
+  - Schlichte IDE für C/C++ Programmierung
+  - gut für Anfänger geeignet
+  - einfache handhabung
+
+
+## IntelliJ
+  - Alternative zu NetBeans
+  - Interpreter individuell einstellbar für Anfänger evtl. leicht überfordernd)
 
 ## Atom
 Atom ist im Grunde nur ein TextEditor praktisch gibt es aber viele
