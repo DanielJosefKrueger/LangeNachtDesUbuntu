@@ -41,7 +41,7 @@ vorstellt.
 
 > Problem der Laptop kann schon mal lauter werden :(
 
-offical: https://netbeans.org
+- offical: https://netbeans.org
 
 ## Eclipse
 Wird von Schiedermeier und von den meisten Professoren benutzt.
