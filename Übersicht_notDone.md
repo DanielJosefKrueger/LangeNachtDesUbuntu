@@ -16,5 +16,4 @@
 
 ### To-Do:
 1. Wichtige Befehle in Linux
-3. Interessante Programme für Linux
 4. Weiterführung Terminalbefehle - BashScripting
