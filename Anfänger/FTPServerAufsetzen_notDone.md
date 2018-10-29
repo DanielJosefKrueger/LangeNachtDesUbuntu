@@ -32,3 +32,6 @@ Um die Schritte besser nachzuvollziehen könnt ihr euch auch dieses Video ansehe
  https://www.youtube.com/watch?v=c11rYDqJFcY
 Hier findet ihr eine Übersicht für die Config-Datei:
  http://vsftpd.beasts.org/vsftpd_conf.html
+
+Hier ist auch nochmal ein guter Anleitungsartikel:
+ https://wiki.ubuntuusers.de/vsftpd/
