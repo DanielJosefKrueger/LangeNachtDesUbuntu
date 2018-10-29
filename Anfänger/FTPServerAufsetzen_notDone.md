@@ -38,14 +38,18 @@ Hier habt ihr eine simple Schritt für Schritt Anleitung:
     ```
     user überprüfen
 
-9.1 in deinName test.txt erstellen
+
 
 **Rechner 2: Client**
 //todo wie starte ich client richtig
 
 8. ftp ip von server
 
-9.2 Kommandos: ls
+9. in 
+    ```
+    home/deinName 
+    ```
+    test.txt erstellen
 
 10. ```
     put file name, file neuer name
