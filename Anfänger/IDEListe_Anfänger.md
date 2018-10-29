@@ -15,7 +15,7 @@ Hier ist eine Liste von nützlichen IDEs, die euch während eurem Studium das pr
 
 ## IntelliJ
 - Alternative zu NetBeans
-- Interpreter individuell einstellbar für Anfänger evtl. leicht überfordernd)
+- Interpreter individuell einstellbar für Anfänger evtl. leicht überfordernd
 - official: https://www.jetbrains.com/idea/download/
 
 ## Atom
